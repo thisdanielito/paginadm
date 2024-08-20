@@ -1,0 +1,31 @@
+#footer{
+    background-color: aqua;
+    font-family:'Cambria';
+    
+    
+}
+#footer a{
+    text-decoration: none;
+    color: white;
+    
+}
+img{
+    height: 80px;
+   
+}
+#navbar a{
+    font-size: 30px;
+}
+.card img{
+    padding-top: 20px;
+    height: 320px;
+    width: 250px;
+    margin: auto;
+   
+}
+#carro img{
+    height: 550px;
+}
+#carro{
+    padding-bottom: 20px;
+}
